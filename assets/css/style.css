@@ -526,7 +526,7 @@ h6 {
   }
 }
 
-@media (max-width: 1024px),
+@media (max-width: 1025px),
 (max-height: 768px) {
   #hero {
     margin-bottom: 10px;
@@ -534,7 +534,7 @@ h6 {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 769px) {
   #hero {
     height: 95vh;
   }
