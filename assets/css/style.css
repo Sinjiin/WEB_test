@@ -534,10 +534,9 @@ h6 {
   }
 }
 
-@media (max-width: 769px) {
+@media (max-width: 1025px) {
   #hero {
     height: 95vh;
-    margin-bottom: 10px;
   }
 
   #hero h1 {
@@ -554,7 +553,7 @@ h6 {
 
 @media (max-height: 640px) {
   #hero {
-    height: 120vh;
+    height: 20vh;
   }
 }
 
