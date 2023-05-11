@@ -397,7 +397,7 @@ h6 {
 #hero {
   width: 100%;
   height: 93vh;
-  background: url("../img/Kallisto_web_gif.gif") center 25%;
+  background: url("../img/tsttst.png") center 25%;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -463,7 +463,7 @@ h6 {
   width: 100%;
   height: 93vh;
   /*--background-color: #3D3EA6; --*/
-  background: url("../img/Kallisto_web_gif1.gif") center center;
+  background: url("../img/tsttst.png") center center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -537,6 +537,7 @@ h6 {
 @media (max-width: 769px) {
   #hero {
     height: 95vh;
+    margin-bottom: 10px;
   }
 
   #hero h1 {
